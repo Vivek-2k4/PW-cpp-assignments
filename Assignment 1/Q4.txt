@@ -1,0 +1,3 @@
+Q4)find the output
+
+Ans.) 6 4
